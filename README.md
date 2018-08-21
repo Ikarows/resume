@@ -5,17 +5,16 @@
 
 <p>
   <strong>一个原创的骚气前端模版</strong>,
-  <a href="https://wscats.github.io/github-emoji/public/index.html">Live Demo</a>
 </p>
 
 <p>
-  <sub>Ikarows ❤︎ by
+  <sub>Made with ❤︎ by
     <a href="https://github.com/Ikarows">Ikarows</a>
   </sub>
 </p>
 
 </div>
 
-## 内容预览
+## Live Demo
 ![Image text](https://github.com/Ikarows/Resume/blob/master/preview/0_1.jpg)
 ![Image text](https://github.com/Ikarows/Resume/blob/master/preview/0_2.jpg)
