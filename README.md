@@ -15,6 +15,9 @@
 
 </div>
 
+## describe
+由于第二天需要去面试，改了下原来的简历去打印发现实在是太简陋了，在网上挑了一下模版发现基本都千篇一律，因此当天晚上就熬夜设计出了一份自己喜欢的风格，用的word文档格式写的，暂时没有去做在线版等等，有需要的话可以自行进行格式转换，如对您有帮助欢迎给个Star~
+
 ## Live Demo
 ![Image text](https://github.com/Ikarows/Resume/blob/master/preview/0_1.jpg)
 ![Image text](https://github.com/Ikarows/Resume/blob/master/preview/0_2.jpg)
