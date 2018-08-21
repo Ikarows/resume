@@ -4,7 +4,7 @@
 <h1>Resume</h1>
 
 <p>
-  <strong>一个原创的骚气web前端开发工程师模版</strong>,
+   <strong>一个原创的骚气web前端开发工程师模版</strong>,
 </p>
 
 <p>
